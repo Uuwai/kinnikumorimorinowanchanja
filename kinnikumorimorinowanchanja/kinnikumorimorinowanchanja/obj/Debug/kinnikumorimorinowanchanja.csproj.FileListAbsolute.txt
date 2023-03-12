@@ -1,0 +1,10 @@
+C:\Users\Kapi\source\repos\kinnikumorimorinowanchanja\kinnikumorimorinowanchanja\bin\Debug\kinnikumorimorinowanchanja.exe
+C:\Users\Kapi\source\repos\kinnikumorimorinowanchanja\kinnikumorimorinowanchanja\bin\Debug\kinnikumorimorinowanchanja.pdb
+C:\Users\Kapi\source\repos\kinnikumorimorinowanchanja\kinnikumorimorinowanchanja\obj\Debug\kinnikumorimorinowanchanja.csproj.AssemblyReference.cache
+C:\Users\Kapi\source\repos\kinnikumorimorinowanchanja\kinnikumorimorinowanchanja\obj\Debug\kinnikumorimorinowanchanja.Form1.resources
+C:\Users\Kapi\source\repos\kinnikumorimorinowanchanja\kinnikumorimorinowanchanja\obj\Debug\kinnikumorimorinowanchanja.Properties.Resources.resources
+C:\Users\Kapi\source\repos\kinnikumorimorinowanchanja\kinnikumorimorinowanchanja\obj\Debug\kinnikumorimorinowanchanja.csproj.GenerateResource.cache
+C:\Users\Kapi\source\repos\kinnikumorimorinowanchanja\kinnikumorimorinowanchanja\obj\Debug\kinnikumorimorinowanchanja.csproj.CoreCompileInputs.cache
+C:\Users\Kapi\source\repos\kinnikumorimorinowanchanja\kinnikumorimorinowanchanja\obj\Debug\kinnikumorimorinowanchanja.exe
+C:\Users\Kapi\source\repos\kinnikumorimorinowanchanja\kinnikumorimorinowanchanja\obj\Debug\kinnikumorimorinowanchanja.pdb
+C:\Users\Kapi\source\repos\kinnikumorimorinowanchanja\kinnikumorimorinowanchanja\obj\Debug\kinnikumorimorinowanchanja.koitsunotarechichigigawarosu.resources
